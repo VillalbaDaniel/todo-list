@@ -3,8 +3,8 @@
   - [x] Description
   - [x] Getting Started
     - [x] Prerequisites
-    - [ ] Instaling
-  - [ ] Deployment
+    - [x] Instaling
+  - [x] Deployment
   - [ ] Built With
   - [ ] Authors
   - [ ] License
