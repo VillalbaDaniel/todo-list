@@ -1,5 +1,5 @@
 #Making a good readme
-- [ ] Project title 
+- [x] Project title 
   - [ ] Description
   - [ ] Getting Started
     - [ ] Prerequisites
