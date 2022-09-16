@@ -1,6 +1,6 @@
 #Making a good readme
 - [x] Project title 
-  - [ ] Description
+  - [x] Description
   - [ ] Getting Started
     - [ ] Prerequisites
     - [ ] Instaling
