@@ -5,6 +5,6 @@
     - [x] Prerequisites
     - [x] Instaling
   - [x] Deployment
-  - [ ] Built With
-  - [ ] Authors
-  - [ ] License
+  - [x] Built With
+  - [x] Authors
+  - [x] License
