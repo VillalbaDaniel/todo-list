@@ -22,9 +22,17 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
-## Deployment
+### Deployment
 Add additional notes to deploy this on a live system
 
-## Built With
+### Built With
 - [Contributor Covenant](http://www.ContributorCovenant.com) 
 - [Creative Commons](http://www.CreativeCommons.com)
+
+### Authors
+- 
+- **Programador A** - *Realizado el Readme* - [Dani Villalba](https://github.com/VillalbaDaniel)
+- **Programador B** - *Realizado el Readme* - [Nelson González](https://github.com/nel386)
+
+También podemos ver los colaboradores en 
+[Colaboradores](https://github.com/VillalbaDaniel/todo-list/graphs/contributors) que son los colaboradores en la práctica.
