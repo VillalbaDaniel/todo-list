@@ -30,9 +30,12 @@ Add additional notes to deploy this on a live system
 - [Creative Commons](http://www.CreativeCommons.com)
 
 ### Authors
-- 
 - **Programador A** - *Realizado el Readme* - [Dani Villalba](https://github.com/VillalbaDaniel)
 - **Programador B** - *Realizado el Readme* - [Nelson González](https://github.com/nel386)
 
 También podemos ver los colaboradores en 
 [Colaboradores](https://github.com/VillalbaDaniel/todo-list/graphs/contributors) que son los colaboradores en la práctica.
+
+## License
+This project is licensed under the [CCo 1.0 Universal](http://www.CCo1.0Universal.com) 
+Cretive Commons License - see the [LISENCE.md](https://github.com/VillalbaDaniel/todo-list/blob/main/LISENCE.md)
